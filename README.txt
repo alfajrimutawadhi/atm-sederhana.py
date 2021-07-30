@@ -1,0 +1,1 @@
+JALANKAN mesin.py
