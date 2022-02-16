@@ -21,4 +21,3 @@ class nasabah :
     def tambahRiwayat(self, data) :
         self.riwayat.append(data)
 
-##tes
